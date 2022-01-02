@@ -68,7 +68,7 @@ class UI extends Phaser.Scene {
         height * 0.02,
         "high Score : " + score.highScore.toString(),
         {
-          fontSize: "40px",
+          fontSize: "30px",
           color: "#ffffff",
           fontStyle: "bold",
         }
