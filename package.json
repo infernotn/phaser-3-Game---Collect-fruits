@@ -1,4 +1,4 @@
-{
+ {
   "name": "phaser_js_ts_webpack",
   "version": "1.0.0",
   "description": "",
@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "build": "^0.1.4",
     "mobx": "^6.3.10",
     "phaser": "^3.55.2"
   },
